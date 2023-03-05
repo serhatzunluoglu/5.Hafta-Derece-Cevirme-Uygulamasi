@@ -40,7 +40,7 @@ class App extends Component {
       <Container>
         <Row>
           <Col>
-            <h1>Derece Çevrimi Uygulaması</h1>
+            <h1>Derece Çevirme Uygulaması</h1>
           </Col>
         </Row>
         <Row>
