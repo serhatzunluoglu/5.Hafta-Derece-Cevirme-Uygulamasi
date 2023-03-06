@@ -45,7 +45,7 @@ class App extends Component {
         </Row>
         <Row>
           <Col>
-            <p >Anlık Sıcaklık : {this.state.count}</p>
+            <p >Anlık Sıcaklık : {this.state.count}°C</p>
           </Col>
         </Row>
         <Row className="buton">
